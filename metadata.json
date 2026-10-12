@@ -1,0 +1,6 @@
+{
+  "name": "EHSS 2026 — Digitalization of Humanities & Social Transformation",
+  "description": "Official track deep-dive, accepted papers repository, and abstract submission portal for Track 02 & 03 of Empowering Humanities & Social Sciences (EHSS 2026) at Department of Humanities and Social Sciences, IIT Roorkee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
